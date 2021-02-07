@@ -16,5 +16,5 @@ Today I Learn
 
 #### Study-log
 
-[2021년 2월 기록](study-log/2월.md)
+[2021년 2월 기록](study-log/2021/2월.md)
 
