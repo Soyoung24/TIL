@@ -14,7 +14,7 @@
 | --------- | ------------------------------------------- | ------------------------------------------------------------ |
 | ~2021     | 2021년까지 작성했던 내용                    |                                                              |
 | python    | python package별로 새로 알게된 내용 정리    |                                                              |
-| algorithm | 코딩테스트 준비하면서 새로 알게된 내용 정리 | [코딩테스트 문제 풀이 repository](https://github.com/Soyoung24/coding-test) |
+| coding_test | 코딩테스트 준비하면서 새로 알게된 내용 정리 | [코딩테스트 문제 풀이 repository](https://github.com/Soyoung24/coding-test) |
 
 
 
