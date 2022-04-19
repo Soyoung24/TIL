@@ -33,7 +33,12 @@
 
 
 ### python
-- Argparse
-  - [[argparse] ArgumentParser에서 bool 값 받기](python/[argparse] ArgumentParser에서 bool 값 받기.md)
-- Numpy
+- **Argparse**
+  - [[argparse] ArgumentParser에서 bool 값 받기](https://github.com/Soyoung24/TIL/blob/master/python/%5Bargparse%5D%20ArgumentParser%EC%97%90%EC%84%9C%20bool%20%EA%B0%92%20%EB%B0%9B%EA%B8%B0.md)
+
+- **Numpy**
   - [[Numpy] array에서 최대값, 최소값 위치 찾기](https://github.com/Soyoung24/TIL/blob/master/python/%5BNumpy%5D%20array%EC%97%90%EC%84%9C%20%EC%B5%9C%EB%8C%80%EA%B0%92%2C%20%EC%B5%9C%EC%86%8C%EA%B0%92%20%EC%9C%84%EC%B9%98%20%EC%B0%BE%EA%B8%B0.md)
+
+- **Matplotlib**
+  - [[matplotlib] plot 그리기](https://github.com/Soyoung24/TIL/blob/master/python/%5Bmatplotlib%5D%20plot%20%EA%B7%B8%EB%A6%AC%EA%B8%B0.md)
+  - [[matplotlib] pycharm에서 plot 창 따로 띄우는 방법](https://github.com/Soyoung24/TIL/blob/master/python/%5Bmatplotlib%5D%20pycharm%EC%97%90%EC%84%9C%20plot%20%EC%B0%BD%20%EB%94%B0%EB%A1%9C%20%EB%9D%84%EC%9A%B0%EB%8A%94%20%EB%B0%A9%EB%B2%95.md)
