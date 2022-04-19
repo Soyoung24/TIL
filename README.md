@@ -30,3 +30,10 @@
 | :memo:     | `:memo:`     | 문서 추가/수정                       |
 | :truck:    | `:truck:`    | 파일/폴더 이동, 이름 변경            |
 
+
+
+### python
+- Argparse
+  - [[argparse] ArgumentParser에서 bool 값 받기](python/[argparse] ArgumentParser에서 bool 값 받기.md)
+- Numpy
+  - [[Numpy] array에서 최대값, 최소값 위치 찾기](https://github.com/Soyoung24/TIL/blob/master/python/%5BNumpy%5D%20array%EC%97%90%EC%84%9C%20%EC%B5%9C%EB%8C%80%EA%B0%92%2C%20%EC%B5%9C%EC%86%8C%EA%B0%92%20%EC%9C%84%EC%B9%98%20%EC%B0%BE%EA%B8%B0.md)
