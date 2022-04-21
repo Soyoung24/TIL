@@ -42,3 +42,7 @@
 - **Matplotlib**
   - [[matplotlib] plot 그리기](https://github.com/Soyoung24/TIL/blob/master/python/%5Bmatplotlib%5D%20plot%20%EA%B7%B8%EB%A6%AC%EA%B8%B0.md)
   - [[matplotlib] pycharm에서 plot 창 따로 띄우는 방법](https://github.com/Soyoung24/TIL/blob/master/python/%5Bmatplotlib%5D%20pycharm%EC%97%90%EC%84%9C%20plot%20%EC%B0%BD%20%EB%94%B0%EB%A1%9C%20%EB%9D%84%EC%9A%B0%EB%8A%94%20%EB%B0%A9%EB%B2%95.md)
+
+
+### wandb
+- [wandb 간단 사용 방법](https://github.com/Soyoung24/TIL/blob/master/wandb/WandB%20%EA%B0%84%EB%8B%A8%20%EC%82%AC%EC%9A%A9%20%EB%B0%A9%EB%B2%95.md)
