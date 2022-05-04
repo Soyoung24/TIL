@@ -30,6 +30,9 @@
 | :memo:     | `:memo:`     | 문서 추가/수정                       |
 | :truck:    | `:truck:`    | 파일/폴더 이동, 이름 변경            |
 
+### Deep Learning
+- **pytorch**
+  - [[pytorch] Transfer Learning](https://github.com/Soyoung24/TIL/blob/master/deep_learning/%5Bpytorch%5D%20Transfer%20Learning.md)
 
 
 ### python
